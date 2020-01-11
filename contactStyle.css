@@ -106,12 +106,11 @@
      font-family: "Comic Sans MS", cursive, sans-serif;
  }
  .logo {
-     width: 357px;
-     height: 317px;
-     position: absolute;
-     right: 400px;
-     left: 450px;
-     top: 55px;
+  width: 357px;
+  height: 317px;
+  position: absolute;
+  left: 36%;
+  top: 10%;
  }
  .contact-section{
     background: url(bg.png) no-repeat center;

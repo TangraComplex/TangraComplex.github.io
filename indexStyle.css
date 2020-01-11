@@ -109,9 +109,8 @@ nav ol  {
     width: 357px;
     height: 317px;
     position: absolute;
-    right: 400px;
-    left: 450px;
-    top: 55px;
+    left: 36%;
+    top: 10%;
 }
 .container {
     margin: auto;
